@@ -53,3 +53,38 @@ To run and explore the Jupyter Notebooks in this repository, you will need Pytho
 
 ```bash
 pip install jupyter
+```
+## Usage
+
+Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/YourUsername/Machine-Learning-Algorithms-from-Scratch.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd Machine-Learning-Algorithms-from-Scratch
+```
+
+Start Jupyter Notebook:
+```bash
+jupyter notebook
+```
+
+## Contributing
+
+If you'd like to contribute to this repository by adding more algorithms, improving the existing ones, or making other enhancements, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and ensure they work as expected.
+4. Commit your changes and create a clear, descriptive pull request.
+5. Explain the purpose and details of your contribution.
+
+Your contributions are welcome and appreciated!
+
+## Contact Information
+
+For questions, suggestions, or further information, please contact Akshat Agrawal at aa5252@columbia.edu
