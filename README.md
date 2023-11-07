@@ -2,8 +2,8 @@
 
 **Implementation of Machine Learning and Deep Learning Algorithms from Scratch**
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YourUsername/Machine-Learning-Algorithms-from-Scratch)
-![GitHub](https://img.shields.io/github/license/YourUsername/Machine-Learning-Algorithms-from-Scratch)
+![GitHub last commit](https://img.shields.io/github/last-commit/AKSHAT2429/Machine-Learning-Algorithms-from-Scratch)
+![GitHub](https://img.shields.io/github/license/AKSHAT2429/Machine-Learning-Algorithms-from-Scratch)
 
 ## Table of Contents
 
